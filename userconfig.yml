@@ -1,7 +1,10 @@
 # 用户配置文件
 userconfig:
   # 吾爱破解账号cookie
-  cookie: cookie
+  cookie: __gads=ID=05661d307149d496:T=1596274196:S=ALNI_MbdqkT2_i8LKxI-2exDA5ExdEipPg; htVD_2132_saltkey=DZiEN22H; htVD_2132_lastvisit=1596270584; htVD_2132_con_request_uri=https%3A%2F%2Fwww.52pojie.cn%2Fconnect.php%3Fmod%3Dlogin%26op%3Dcallback%26referer%3Dindex.php; htVD_2132_client_created=1596274194; htVD_2132_client_token=A603A65F1C8F447ACE50425B472F5C41; htVD_2132_ulastactivity=1596274194%7C0; htVD_2132_auth=8dbdCxuFTvnB0lr4BTxXQK1dJZeW7w%2Bu5cDaqObxqZuuTXO5GGguW4TMY97a7mMlREOYKdRrCdXX7MAlSNCQPnVD2%2BI; htVD_2132_connect_login=1; htVD_2132_connect_is_bind=1; htVD_2132_connect_uin=A603A65F1C8F447ACE50425B472F5C41; htVD_2132_stats_qc_login=3; KF4=DFt7bF; htVD_2132_sid=0; htVD_2132_ttask=742867%7C20200801; htVD_2132_checkpm=1; htVD_2132_nofavfid=1; htVD_2132_lastcheckfeed=742867%7C1596274448; htVD_2132_st_p=742867%7C1596274476%7C5ead9177926f6461d89ca9741837a13e; htVD_2132_visitedfid=8D16D59; htVD_2132_viewid=tid_658777; BAIDU_SSP_lcr=https://www.baidu.com/link?url=GEORE0nZIOnUL_ff9y6PD_Pr7EsYCONnKj7xp2JgsTT-1xDKqxhJLIHAZMPTTAaijm3GDPLOgUzWwsIeTgcbVa&wd=&eqid=e1496fd90017d563000000065f253604; Hm_lvt_46d556462595ed05e05f009cdafff31a=1596273971,1596274198,1596274497; Hm_lpvt_46d556462595ed05e05f009cdafff31a=1596274497; htVD_2132_lastact=1596274483%09plugin.php%09
+
+
+
   # 吾爱破解账号formhash
   formhash: formhash
   # 随机选择自动回帖内容
